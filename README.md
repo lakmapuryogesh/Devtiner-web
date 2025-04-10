@@ -10,6 +10,7 @@
 -Create BrowserRouter > routes > Route=/ Body > RouterChildren
 -Create an Outlet in your Body Component
 -create a footer
+
 Body
 NavBar
 Router/ =>Feed
